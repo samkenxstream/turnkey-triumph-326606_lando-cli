@@ -170,7 +170,7 @@
     "mkdirp": "^0.5.1",
     "node-cache": "^4.1.1",
     "object-hash": "^1.1.8",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "shelljs": "^0.8.4",
     "string-argv": "0.1.1",
     "sudo-block": "^2.0.0",
